@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1><center>Sistem Akademik</center></h1>
+        <h1><center>Klinik1</center></h1>
         <?php
         include("Koneksi.php");
         // query untuk menampilkan data
